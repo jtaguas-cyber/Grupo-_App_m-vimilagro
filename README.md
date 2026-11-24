@@ -1,4 +1,4 @@
-# GrupoC - App_movimilagro
+# GrupoC - App_Movimilagro
 ## Integrantes:
 - Mathias Ariel Abad Jiménez
 - Kenneth Adonis Anchundia Arrieta
