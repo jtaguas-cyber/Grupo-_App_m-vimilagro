@@ -20,4 +20,4 @@ MoviMilagro es una aplicación pensada para conectar a pasajeros con conductores
 | RNF-02 | No funcional  | El conductor debe poder activar o desactivar el rastreo de ubicación fuera de viaje en un máximo de dos clics y en menos de 10 segundos desde la pantalla principal.| CP-05: Entrar a la aplicación con una cuenta de conductor, medir el tiempo y contar los clics necesarios para apagar la ubicación fuera de servicio. | El conductor logra desactivar el rastreo en 2 clics o menos y en un tiempo inferior a 10 segundos. |
 
 ## Documento PDF
-[Documento PDF de Requerimientos y Pruebas]()
+[Documento PDF de Requerimientos y Pruebas](./CP2_Requerimientos_y_Pruebas.pdf)
