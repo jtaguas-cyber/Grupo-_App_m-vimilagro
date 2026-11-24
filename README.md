@@ -1,5 +1,5 @@
-# GrupoC-_App_movimilagro
-Integrantes:
+# GrupoC - App_movimilagro
+## Integrantes:
 - Mathias Ariel Abad Jiménez
 - Kenneth Adonis Anchundia Arrieta
 - Jonathan Stalin Tagua Soria
@@ -7,6 +7,7 @@ Integrantes:
 - Joselyn Guadalupe Leal Rios
 - Jostin Juber Amaguaya Mendoza
 
+## Introducción
 MoviMilagro es una aplicación pensada para conectar a pasajeros con conductores particulares y facilitar los viajes dentro de la ciudad de forma rápida y ordenada. Para dar este servicio, la plataforma usa la ubicación en tiempo real, pero querer rastrear a los conductores fuera de su horario de trabajo y guardar sus recorridos por meses afecta su privacidad y seguridad. En este proyecto de Introducción a la ingeniería de software, transformamos este problema en requisitos funcionales y no funcionales con sus respectivos casos de prueba. Así buscamos lograr una aplicación segura, que cifre los datos y permita controlar la ubicación de manera fácil y transparente.
 
 ## Tabla de requisitos y pruebas de la actividad 1
